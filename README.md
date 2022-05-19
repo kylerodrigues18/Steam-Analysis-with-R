@@ -17,3 +17,4 @@ The hypotheses being tested are the following:
 3. It’s possible to reliably engineer an MVP feature for the player which contributed the most.
 4. The MVP score calculation can correlate with the player’s chance of winning.
 
+Our output we created is an html document that can be downloaded and opened to view the report (similiar to reading a webpage article).
