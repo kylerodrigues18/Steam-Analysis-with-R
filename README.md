@@ -1,0 +1,14 @@
+
+# Dota 2 Analysis
+
+This analysis of the [Dota 2 matches dataset](https://www.kaggle.com/devinanzelmo/dota-2-matches) is the final project submission for MSOE's CS 4980, Data warehousing and Mining course. 
+The dataset consists of 50,000 Dota 2 matches. 
+This project will be broken into multiple parts which will comprehensivly simulate the data science process. 
+These parts include creating hypotheses, data importing/combining, data cleaning, feature engineering, exploratory data analysis, statistical testing, and machine learning modeling. 
+The hypotheses being tested are the following:
+
+1. The number of times players chose items and heroes follow a normal distribution over the course of multiple games.
+2. A team’s hero and item composition can produce optimal trends for total team effectiveness.
+3. It’s possible to reliably engineer an MVP feature for the player which contributed the most.
+4. The MVP score calculation can correlate with the player’s chance of winning.
+
